@@ -2,6 +2,8 @@
 
 Datalayer Helper class
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4816610e1a304b0e9b189349e8367a0e)](https://www.codacy.com/app/henriquecarv/next-io-datalayer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=henriquecarv/next-io-datalayer&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://dev.azure.com/henriquecarvgit/henriquecarvgit/_apis/build/status/henriquecarv.next-io-datalayer?branchName=master)](https://dev.azure.com/henriquecarvgit/henriquecarvgit/_build/latest?definitionId=11)
 [![npm](https://img.shields.io/npm/v/next-io-datalayer.svg)](https://www.npmjs.com/package/next-io-datalayer)
 [![npm](https://img.shields.io/npm/dt/next-io-datalayer.svg)](https://www.npmjs.com/package/next-io-datalayer)
 [![LICENSE](https://img.shields.io/github/license/henriquecarv/next-io-datalayer.svg)](./LICENSE)
