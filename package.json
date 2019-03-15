@@ -1,7 +1,7 @@
 {
   "name": "next-io-datalayer",
   "description": "Datalayer Helper class",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": "./src/index.js",
   "scripts": {
     "lint": "eslint ."
