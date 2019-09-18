@@ -17,10 +17,10 @@ Datalayer Helper class
 
 - `npm i next-io-datalayer`
 
-## Usage
+## Class Usage
 
 ```javascript
-import DispatchDataLayer from "next-io-datalayer";
+import { DispatchDataLayer } from "next-io-datalayer";
 
 new DispatchDataLayer(
   "generic-event-trigger",
@@ -30,7 +30,20 @@ new DispatchDataLayer(
 );
 ```
 
-## License
+## Function Usage
+
+```javascript
+import { dispatchDataLayer } from "next-io-datalayer";
+
+dispatchDataLayer(
+  "generic-event-trigger",
+  "default action",
+  "default category",
+  "default label"
+);
+```
+
+### License
 
 Copylefted (c) 2019 [Henrique Carvalho da Cruz][1] Licensed under the [MIT license][2].
 

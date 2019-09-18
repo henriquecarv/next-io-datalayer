@@ -1,26 +1,26 @@
 {
-  "name": "next-io-datalayer",
-  "description": "Datalayer Helper class",
-  "version": "1.5.0",
-  "main": "./src/index.js",
-  "scripts": {
-    "lint": "eslint ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://henriquecarv@github.com/henriquecarv/next-io-datalayer.git"
-  },
-  "keywords": [
-    "ga",
-    "datalayer",
-    "henriquecarv",
-    "open-source"
-  ],
-  "author": "Henrique Carvalho da Cruz <henriquecarv.cruz@gmail.com> (https://henriquecarv.com)",
-  "license": "MIT",
-  "devDependencies": {
-    "eslint": "^6.3.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.17.2"
-  }
+	"name": "next-io-datalayer",
+	"description": "Datalayer Helper class",
+	"version": "1.5.0",
+	"main": "./src/index.js",
+	"scripts": {
+		"lint": "eslint ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://henriquecarv@github.com/henriquecarv/next-io-datalayer.git"
+	},
+	"keywords": [
+		"ga",
+		"datalayer",
+		"henriquecarv",
+		"open-source"
+	],
+	"author": "Henrique Carvalho da Cruz <henriquecarv.cruz@gmail.com> (https://henriquecarv.com)",
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^6.4.0",
+		"eslint-config-airbnb-base": "^14.0.0",
+		"eslint-plugin-import": "^2.18.2"
+	}
 }
